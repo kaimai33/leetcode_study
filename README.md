@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1677-matrix-diagonal-sum](https://github.com/kaimai33/leetcode_study/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaimai33/leetcode_study/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1944-truncate-sentence](https://github.com/kaimai33/leetcode_study/tree/master/1944-truncate-sentence) |
 ## String
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaimai33/leetcode_study/tree/master/1786-count-the-number-of-consistent-strings) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/kaimai33/leetcode_study/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
