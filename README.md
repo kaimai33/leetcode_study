@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/kaimai33/leetcode_study/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/kaimai33/leetcode_study/tree/master/1944-truncate-sentence) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/kaimai33/leetcode_study/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/kaimai33/leetcode_study/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2727-number-of-senior-citizens](https://github.com/kaimai33/leetcode_study/tree/master/2727-number-of-senior-citizens) |
