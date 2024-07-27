@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/kaimai33/leetcode_study/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/kaimai33/leetcode_study/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kaimai33/leetcode_study/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2010-check-if-word-equals-summation-of-two-words](https://github.com/kaimai33/leetcode_study/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2235-capitalize-the-title](https://github.com/kaimai33/leetcode_study/tree/master/2235-capitalize-the-title) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/kaimai33/leetcode_study/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/kaimai33/leetcode_study/tree/master/2372-rearrange-characters-to-make-target-string) |
