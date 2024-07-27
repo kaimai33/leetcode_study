@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/kaimai33/leetcode_study/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/kaimai33/leetcode_study/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/kaimai33/leetcode_study/tree/master/2433-best-poker-hand) |
+| [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
 | [2727-number-of-senior-citizens](https://github.com/kaimai33/leetcode_study/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/kaimai33/leetcode_study/tree/master/2737-row-with-maximum-ones) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/kaimai33/leetcode_study/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/kaimai33/leetcode_study/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/kaimai33/leetcode_study/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/kaimai33/leetcode_study/tree/master/2433-best-poker-hand) |
+| [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,4 +89,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kaimai33/leetcode_study/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
+## Two Pointers
+|  |
+| ------- |
+| [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
 <!---LeetCode Topics End-->
