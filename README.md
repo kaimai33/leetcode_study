@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kaimai33/leetcode_study/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/kaimai33/leetcode_study/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaimai33/leetcode_study/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -98,10 +99,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kaimai33/leetcode_study/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
 ## Two Pointers
 |  |
 | ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
+## Binary Search
+|  |
+| ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/1486-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
