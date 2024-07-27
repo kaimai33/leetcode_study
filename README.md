@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/kaimai33/leetcode_study/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/kaimai33/leetcode_study/tree/master/2737-row-with-maximum-ones) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/kaimai33/leetcode_study/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2777-find-the-distinct-difference-array](https://github.com/kaimai33/leetcode_study/tree/master/2777-find-the-distinct-difference-array) |
 | [2881-split-strings-by-separator](https://github.com/kaimai33/leetcode_study/tree/master/2881-split-strings-by-separator) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/kaimai33/leetcode_study/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## String
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/kaimai33/leetcode_study/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/kaimai33/leetcode_study/tree/master/2433-best-poker-hand) |
 | [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
+| [2777-find-the-distinct-difference-array](https://github.com/kaimai33/leetcode_study/tree/master/2777-find-the-distinct-difference-array) |
 ## Bit Manipulation
 |  |
 | ------- |
