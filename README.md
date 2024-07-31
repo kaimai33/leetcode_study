@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaimai33/leetcode_study/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
 ## Binary Search
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/kaimai33/leetcode_study/tree/master/0216-combination-sum-iii) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaimai33/leetcode_study/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
