@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2777-find-the-distinct-difference-array](https://github.com/kaimai33/leetcode_study/tree/master/2777-find-the-distinct-difference-array) |
 | [2881-split-strings-by-separator](https://github.com/kaimai33/leetcode_study/tree/master/2881-split-strings-by-separator) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/kaimai33/leetcode_study/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/kaimai33/leetcode_study/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/kaimai33/leetcode_study/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kaimai33/leetcode_study/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/kaimai33/leetcode_study/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/kaimai33/leetcode_study/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/kaimai33/leetcode_study/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Matrix
 |  |
 | ------- |
