@@ -3,17 +3,14 @@ class Solution:
         ans = []
 
         def dfs(k, n, curr_val, path):
-            # successful end case
             if k == 0 and n == 0:
                 ans.append(path)
                 return
-            # unsuccessful end case
             elif k == 0 or n < 0:
                 return
 
             for i in range(curr_val, 10):
-                # we do i + 1 because we cannot repeat usage of digits
-                dfs(k - 1, n - i, i + 1, path + [i])
+                dfs(k-1, n-i, i + 1, path + [i])
         
         dfs(k, n, 1, [])
         return ans
