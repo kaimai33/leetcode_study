@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/kaimai33/leetcode_study/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2481-strictly-palindromic-number](https://github.com/kaimai33/leetcode_study/tree/master/2481-strictly-palindromic-number) |
 ## Counting
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaimai33/leetcode_study/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2481-strictly-palindromic-number](https://github.com/kaimai33/leetcode_study/tree/master/2481-strictly-palindromic-number) |
 | [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
 ## Binary Search
 |  |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0654-maximum-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/kaimai33/leetcode_study/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
