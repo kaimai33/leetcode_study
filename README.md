@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/kaimai33/leetcode_study/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/kaimai33/leetcode_study/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/kaimai33/leetcode_study/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/kaimai33/leetcode_study/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/kaimai33/leetcode_study/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
@@ -195,4 +196,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/kaimai33/leetcode_study/tree/master/1511-count-number-of-teams) |
+## Rolling Hash
+|  |
+| ------- |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/kaimai33/leetcode_study/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+## String Matching
+|  |
+| ------- |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/kaimai33/leetcode_study/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
+## Hash Function
+|  |
+| ------- |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/kaimai33/leetcode_study/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 <!---LeetCode Topics End-->
