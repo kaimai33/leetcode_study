@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0891-score-after-flipping-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kaimai33/leetcode_study/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1324-where-will-the-ball-fall](https://github.com/kaimai33/leetcode_study/tree/master/1324-where-will-the-ball-fall) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/kaimai33/leetcode_study/tree/master/1677-matrix-diagonal-sum) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kaimai33/leetcode_study/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1324-where-will-the-ball-fall](https://github.com/kaimai33/leetcode_study/tree/master/1324-where-will-the-ball-fall) |
 | [2470-removing-stars-from-a-string](https://github.com/kaimai33/leetcode_study/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/kaimai33/leetcode_study/tree/master/2886-faulty-keyboard) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/kaimai33/leetcode_study/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0891-score-after-flipping-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0891-score-after-flipping-matrix) |
+| [1324-where-will-the-ball-fall](https://github.com/kaimai33/leetcode_study/tree/master/1324-where-will-the-ball-fall) |
 | [1677-matrix-diagonal-sum](https://github.com/kaimai33/leetcode_study/tree/master/1677-matrix-diagonal-sum) |
 | [2737-row-with-maximum-ones](https://github.com/kaimai33/leetcode_study/tree/master/2737-row-with-maximum-ones) |
 ## Greedy
