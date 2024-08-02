@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kaimai33/leetcode_study/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kaimai33/leetcode_study/tree/master/0540-single-element-in-a-sorted-array) |
 | [0654-maximum-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0654-maximum-binary-tree) |
+| [0724-find-pivot-index](https://github.com/kaimai33/leetcode_study/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/kaimai33/leetcode_study/tree/master/0735-asteroid-collision) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kaimai33/leetcode_study/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0891-score-after-flipping-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0891-score-after-flipping-matrix) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kaimai33/leetcode_study/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/kaimai33/leetcode_study/tree/master/0724-find-pivot-index) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/kaimai33/leetcode_study/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Dynamic Programming
 |  |
