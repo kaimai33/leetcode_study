@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kaimai33/leetcode_study/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/kaimai33/leetcode_study/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaimai33/leetcode_study/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/kaimai33/leetcode_study/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/kaimai33/leetcode_study/tree/master/1944-truncate-sentence) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/kaimai33/leetcode_study/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/kaimai33/leetcode_study/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2481-strictly-palindromic-number](https://github.com/kaimai33/leetcode_study/tree/master/2481-strictly-palindromic-number) |
 ## Counting
