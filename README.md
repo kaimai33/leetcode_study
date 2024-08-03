@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/kaimai33/leetcode_study/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kaimai33/leetcode_study/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kaimai33/leetcode_study/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1677-matrix-diagonal-sum](https://github.com/kaimai33/leetcode_study/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaimai33/leetcode_study/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kaimai33/leetcode_study/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kaimai33/leetcode_study/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kaimai33/leetcode_study/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaimai33/leetcode_study/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kaimai33/leetcode_study/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kaimai33/leetcode_study/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kaimai33/leetcode_study/tree/master/1777-determine-if-two-strings-are-close) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kaimai33/leetcode_study/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
