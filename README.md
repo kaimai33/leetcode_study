@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/kaimai33/leetcode_study/tree/master/2727-number-of-senior-citizens) |
 | [2881-split-strings-by-separator](https://github.com/kaimai33/leetcode_study/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/kaimai33/leetcode_study/tree/master/2886-faulty-keyboard) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/kaimai33/leetcode_study/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3451-string-compression-iii](https://github.com/kaimai33/leetcode_study/tree/master/3451-string-compression-iii) |
 ## Tree
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-best-poker-hand](https://github.com/kaimai33/leetcode_study/tree/master/2433-best-poker-hand) |
 | [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
 | [2777-find-the-distinct-difference-array](https://github.com/kaimai33/leetcode_study/tree/master/2777-find-the-distinct-difference-array) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/kaimai33/leetcode_study/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/kaimai33/leetcode_study/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Bit Manipulation
 |  |
