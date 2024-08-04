@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/kaimai33/leetcode_study/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2777-find-the-distinct-difference-array](https://github.com/kaimai33/leetcode_study/tree/master/2777-find-the-distinct-difference-array) |
 | [2881-split-strings-by-separator](https://github.com/kaimai33/leetcode_study/tree/master/2881-split-strings-by-separator) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/kaimai33/leetcode_study/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/kaimai33/leetcode_study/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/kaimai33/leetcode_study/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/kaimai33/leetcode_study/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-best-poker-hand](https://github.com/kaimai33/leetcode_study/tree/master/2433-best-poker-hand) |
 | [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
 | [2777-find-the-distinct-difference-array](https://github.com/kaimai33/leetcode_study/tree/master/2777-find-the-distinct-difference-array) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/kaimai33/leetcode_study/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/kaimai33/leetcode_study/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/kaimai33/leetcode_study/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Bit Manipulation
