@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kaimai33/leetcode_study/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/kaimai33/leetcode_study/tree/master/0337-house-robber-iii) |
 | [0654-maximum-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0654-maximum-binary-tree) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kaimai33/leetcode_study/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/kaimai33/leetcode_study/tree/master/0337-house-robber-iii) |
 | [0654-maximum-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0654-maximum-binary-tree) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kaimai33/leetcode_study/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/kaimai33/leetcode_study/tree/master/0337-house-robber-iii) |
 ## Divide and Conquer
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kaimai33/leetcode_study/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Graph
 |  |
