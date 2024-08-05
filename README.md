@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kaimai33/leetcode_study/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/kaimai33/leetcode_study/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kaimai33/leetcode_study/tree/master/0057-insert-interval) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kaimai33/leetcode_study/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/kaimai33/leetcode_study/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/kaimai33/leetcode_study/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kaimai33/leetcode_study/tree/master/0540-single-element-in-a-sorted-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kaimai33/leetcode_study/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kaimai33/leetcode_study/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/kaimai33/leetcode_study/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2481-strictly-palindromic-number](https://github.com/kaimai33/leetcode_study/tree/master/2481-strictly-palindromic-number) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kaimai33/leetcode_study/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kaimai33/leetcode_study/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/kaimai33/leetcode_study/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0654-maximum-binary-tree) |
