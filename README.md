@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-best-poker-hand](https://github.com/kaimai33/leetcode_study/tree/master/2433-best-poker-hand) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/kaimai33/leetcode_study/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
+| [2698-find-the-array-concatenation-value](https://github.com/kaimai33/leetcode_study/tree/master/2698-find-the-array-concatenation-value) |
 | [2727-number-of-senior-citizens](https://github.com/kaimai33/leetcode_study/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/kaimai33/leetcode_study/tree/master/2737-row-with-maximum-ones) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/kaimai33/leetcode_study/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kaimai33/leetcode_study/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1324-where-will-the-ball-fall](https://github.com/kaimai33/leetcode_study/tree/master/1324-where-will-the-ball-fall) |
 | [2470-removing-stars-from-a-string](https://github.com/kaimai33/leetcode_study/tree/master/2470-removing-stars-from-a-string) |
+| [2698-find-the-array-concatenation-value](https://github.com/kaimai33/leetcode_study/tree/master/2698-find-the-array-concatenation-value) |
 | [2886-faulty-keyboard](https://github.com/kaimai33/leetcode_study/tree/master/2886-faulty-keyboard) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/kaimai33/leetcode_study/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Hash Table
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kaimai33/leetcode_study/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/kaimai33/leetcode_study/tree/master/2481-strictly-palindromic-number) |
 | [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
+| [2698-find-the-array-concatenation-value](https://github.com/kaimai33/leetcode_study/tree/master/2698-find-the-array-concatenation-value) |
 ## Binary Search
 |  |
 | ------- |
