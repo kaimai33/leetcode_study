@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaimai33/leetcode_study/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/kaimai33/leetcode_study/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/kaimai33/leetcode_study/tree/master/1944-truncate-sentence) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kaimai33/leetcode_study/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kaimai33/leetcode_study/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/kaimai33/leetcode_study/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kaimai33/leetcode_study/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/kaimai33/leetcode_study/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2235-capitalize-the-title](https://github.com/kaimai33/leetcode_study/tree/master/2235-capitalize-the-title) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/kaimai33/leetcode_study/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/kaimai33/leetcode_study/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/kaimai33/leetcode_study/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaimai33/leetcode_study/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kaimai33/leetcode_study/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/kaimai33/leetcode_study/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/kaimai33/leetcode_study/tree/master/2406-decode-the-message) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/kaimai33/leetcode_study/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kaimai33/leetcode_study/tree/master/1777-determine-if-two-strings-are-close) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/kaimai33/leetcode_study/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/kaimai33/leetcode_study/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/kaimai33/leetcode_study/tree/master/2433-best-poker-hand) |
