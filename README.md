@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/kaimai33/leetcode_study/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/kaimai33/leetcode_study/tree/master/0409-longest-palindrome) |
 | [0649-dota2-senate](https://github.com/kaimai33/leetcode_study/tree/master/0649-dota2-senate) |
+| [0657-robot-return-to-origin](https://github.com/kaimai33/leetcode_study/tree/master/0657-robot-return-to-origin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kaimai33/leetcode_study/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kaimai33/leetcode_study/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kaimai33/leetcode_study/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/kaimai33/leetcode_study/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/kaimai33/leetcode_study/tree/master/0735-asteroid-collision) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kaimai33/leetcode_study/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1324-where-will-the-ball-fall](https://github.com/kaimai33/leetcode_study/tree/master/1324-where-will-the-ball-fall) |
