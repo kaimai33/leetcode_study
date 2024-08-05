@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kaimai33/leetcode_study/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/kaimai33/leetcode_study/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/kaimai33/leetcode_study/tree/master/0057-insert-interval) |
 | [0216-combination-sum-iii](https://github.com/kaimai33/leetcode_study/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/kaimai33/leetcode_study/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kaimai33/leetcode_study/tree/master/0540-single-element-in-a-sorted-array) |
