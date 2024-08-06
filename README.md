@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/kaimai33/leetcode_study/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/kaimai33/leetcode_study/tree/master/2886-faulty-keyboard) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kaimai33/leetcode_study/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaimai33/leetcode_study/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/kaimai33/leetcode_study/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3451-string-compression-iii](https://github.com/kaimai33/leetcode_study/tree/master/3451-string-compression-iii) |
 ## Tree
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
 | [2777-find-the-distinct-difference-array](https://github.com/kaimai33/leetcode_study/tree/master/2777-find-the-distinct-difference-array) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/kaimai33/leetcode_study/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaimai33/leetcode_study/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/kaimai33/leetcode_study/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/kaimai33/leetcode_study/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Bit Manipulation
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/kaimai33/leetcode_study/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/kaimai33/leetcode_study/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/kaimai33/leetcode_study/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaimai33/leetcode_study/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/kaimai33/leetcode_study/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/kaimai33/leetcode_study/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/kaimai33/leetcode_study/tree/master/2433-best-poker-hand) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaimai33/leetcode_study/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/kaimai33/leetcode_study/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Sorting
 |  |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kaimai33/leetcode_study/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/kaimai33/leetcode_study/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaimai33/leetcode_study/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
