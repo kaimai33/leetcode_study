@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kaimai33/leetcode_study/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaimai33/leetcode_study/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kaimai33/leetcode_study/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/kaimai33/leetcode_study/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kaimai33/leetcode_study/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaimai33/leetcode_study/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kaimai33/leetcode_study/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kaimai33/leetcode_study/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/kaimai33/leetcode_study/tree/master/0394-decode-string) |
 ## Design
 |  |
