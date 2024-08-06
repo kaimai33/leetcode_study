@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaimai33/leetcode_study/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/kaimai33/leetcode_study/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/kaimai33/leetcode_study/tree/master/1944-truncate-sentence) |
+| [1983-maximum-population-year](https://github.com/kaimai33/leetcode_study/tree/master/1983-maximum-population-year) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kaimai33/leetcode_study/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kaimai33/leetcode_study/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kaimai33/leetcode_study/tree/master/1777-determine-if-two-strings-are-close) |
+| [1983-maximum-population-year](https://github.com/kaimai33/leetcode_study/tree/master/1983-maximum-population-year) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/kaimai33/leetcode_study/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/kaimai33/leetcode_study/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kaimai33/leetcode_study/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/kaimai33/leetcode_study/tree/master/0724-find-pivot-index) |
+| [1983-maximum-population-year](https://github.com/kaimai33/leetcode_study/tree/master/1983-maximum-population-year) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/kaimai33/leetcode_study/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Dynamic Programming
 |  |
