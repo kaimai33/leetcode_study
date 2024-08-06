@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/kaimai33/leetcode_study/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/kaimai33/leetcode_study/tree/master/0735-asteroid-collision) |
+| [0797-rabbits-in-forest](https://github.com/kaimai33/leetcode_study/tree/master/0797-rabbits-in-forest) |
 | [0835-linked-list-components](https://github.com/kaimai33/leetcode_study/tree/master/0835-linked-list-components) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kaimai33/leetcode_study/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0891-score-after-flipping-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0891-score-after-flipping-matrix) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/kaimai33/leetcode_study/tree/master/0409-longest-palindrome) |
+| [0797-rabbits-in-forest](https://github.com/kaimai33/leetcode_study/tree/master/0797-rabbits-in-forest) |
 | [0835-linked-list-components](https://github.com/kaimai33/leetcode_study/tree/master/0835-linked-list-components) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kaimai33/leetcode_study/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kaimai33/leetcode_study/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/kaimai33/leetcode_study/tree/master/0409-longest-palindrome) |
 | [0649-dota2-senate](https://github.com/kaimai33/leetcode_study/tree/master/0649-dota2-senate) |
+| [0797-rabbits-in-forest](https://github.com/kaimai33/leetcode_study/tree/master/0797-rabbits-in-forest) |
 | [0891-score-after-flipping-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0891-score-after-flipping-matrix) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/kaimai33/leetcode_study/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/kaimai33/leetcode_study/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kaimai33/leetcode_study/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaimai33/leetcode_study/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0797-rabbits-in-forest](https://github.com/kaimai33/leetcode_study/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kaimai33/leetcode_study/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/kaimai33/leetcode_study/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2481-strictly-palindromic-number](https://github.com/kaimai33/leetcode_study/tree/master/2481-strictly-palindromic-number) |
