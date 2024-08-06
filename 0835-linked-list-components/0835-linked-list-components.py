@@ -6,12 +6,10 @@
 class Solution:
     def numComponents(self, head: Optional[ListNode], nums: List[int]) -> int:
         isConnected = False
-        # curr_subset = set()
         nums_set = set(nums)
         ans = 0
         while head:
             if head.val in nums_set:
-                # curr_subset.add()
                 isConnected = True
             if head.val not in nums_set and isConnected:
                 isConnected = False
