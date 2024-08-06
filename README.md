@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0891-score-after-flipping-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kaimai33/leetcode_study/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1127-last-stone-weight](https://github.com/kaimai33/leetcode_study/tree/master/1127-last-stone-weight) |
 | [1324-where-will-the-ball-fall](https://github.com/kaimai33/leetcode_study/tree/master/1324-where-will-the-ball-fall) |
 | [1331-path-with-maximum-gold](https://github.com/kaimai33/leetcode_study/tree/master/1331-path-with-maximum-gold) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -347,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/kaimai33/leetcode_study/tree/master/3189-find-champion-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/kaimai33/leetcode_study/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
