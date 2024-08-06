@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kaimai33/leetcode_study/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaimai33/leetcode_study/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0206-reverse-linked-list](https://github.com/kaimai33/leetcode_study/tree/master/0206-reverse-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kaimai33/leetcode_study/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
 |  |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kaimai33/leetcode_study/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/kaimai33/leetcode_study/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/kaimai33/leetcode_study/tree/master/0394-decode-string) |
 ## Design
 |  |
