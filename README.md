@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kaimai33/leetcode_study/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/kaimai33/leetcode_study/tree/master/0871-keys-and-rooms) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -364,9 +365,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kaimai33/leetcode_study/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/kaimai33/leetcode_study/tree/master/0871-keys-and-rooms) |
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/kaimai33/leetcode_study/tree/master/0871-keys-and-rooms) |
 | [3189-find-champion-ii](https://github.com/kaimai33/leetcode_study/tree/master/3189-find-champion-ii) |
 ## Heap (Priority Queue)
 |  |
