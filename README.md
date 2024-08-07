@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/kaimai33/leetcode_study/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/kaimai33/leetcode_study/tree/master/2384-root-equals-sum-of-children) |
 ## Simulation
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/kaimai33/leetcode_study/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/kaimai33/leetcode_study/tree/master/0392-is-subsequence) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/kaimai33/leetcode_study/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kaimai33/leetcode_study/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Depth-First Search
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kaimai33/leetcode_study/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
