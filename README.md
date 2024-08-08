@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/kaimai33/leetcode_study/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/kaimai33/leetcode_study/tree/master/0735-asteroid-collision) |
+| [0772-construct-quad-tree](https://github.com/kaimai33/leetcode_study/tree/master/0772-construct-quad-tree) |
 | [0777-toeplitz-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0777-toeplitz-matrix) |
 | [0797-rabbits-in-forest](https://github.com/kaimai33/leetcode_study/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/kaimai33/leetcode_study/tree/master/0816-design-hashset) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/kaimai33/leetcode_study/tree/master/0772-construct-quad-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/kaimai33/leetcode_study/tree/master/2384-root-equals-sum-of-children) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0772-construct-quad-tree](https://github.com/kaimai33/leetcode_study/tree/master/0772-construct-quad-tree) |
 | [0777-toeplitz-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0777-toeplitz-matrix) |
 | [0891-score-after-flipping-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0891-score-after-flipping-matrix) |
 | [1324-where-will-the-ball-fall](https://github.com/kaimai33/leetcode_study/tree/master/1324-where-will-the-ball-fall) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0654-maximum-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/kaimai33/leetcode_study/tree/master/0772-construct-quad-tree) |
 ## Brainteaser
 |  |
 | ------- |
