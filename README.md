@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/kaimai33/leetcode_study/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/kaimai33/leetcode_study/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/kaimai33/leetcode_study/tree/master/0797-rabbits-in-forest) |
+| [0816-design-hashset](https://github.com/kaimai33/leetcode_study/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/kaimai33/leetcode_study/tree/master/0835-linked-list-components) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kaimai33/leetcode_study/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0891-score-after-flipping-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0891-score-after-flipping-matrix) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/kaimai33/leetcode_study/tree/master/0409-longest-palindrome) |
 | [0797-rabbits-in-forest](https://github.com/kaimai33/leetcode_study/tree/master/0797-rabbits-in-forest) |
+| [0816-design-hashset](https://github.com/kaimai33/leetcode_study/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/kaimai33/leetcode_study/tree/master/0835-linked-list-components) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kaimai33/leetcode_study/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaimai33/leetcode_study/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/kaimai33/leetcode_study/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kaimai33/leetcode_study/tree/master/0328-odd-even-linked-list) |
+| [0816-design-hashset](https://github.com/kaimai33/leetcode_study/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/kaimai33/leetcode_study/tree/master/0835-linked-list-components) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kaimai33/leetcode_study/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kaimai33/leetcode_study/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/kaimai33/leetcode_study/tree/master/0816-design-hashset) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/kaimai33/leetcode_study/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Sliding Window
 |  |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kaimai33/leetcode_study/tree/master/0155-min-stack) |
+| [0816-design-hashset](https://github.com/kaimai33/leetcode_study/tree/master/0816-design-hashset) |
 | [0969-number-of-recent-calls](https://github.com/kaimai33/leetcode_study/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
