@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/kaimai33/leetcode_study/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kaimai33/leetcode_study/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/kaimai33/leetcode_study/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/kaimai33/leetcode_study/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2235-capitalize-the-title](https://github.com/kaimai33/leetcode_study/tree/master/2235-capitalize-the-title) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/kaimai33/leetcode_study/tree/master/2341-count-prefixes-of-a-given-string) |
