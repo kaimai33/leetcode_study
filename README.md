@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/kaimai33/leetcode_study/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2777-find-the-distinct-difference-array](https://github.com/kaimai33/leetcode_study/tree/master/2777-find-the-distinct-difference-array) |
 | [2881-split-strings-by-separator](https://github.com/kaimai33/leetcode_study/tree/master/2881-split-strings-by-separator) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kaimai33/leetcode_study/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/kaimai33/leetcode_study/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/kaimai33/leetcode_study/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/kaimai33/leetcode_study/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/kaimai33/leetcode_study/tree/master/2727-number-of-senior-citizens) |
 | [2881-split-strings-by-separator](https://github.com/kaimai33/leetcode_study/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/kaimai33/leetcode_study/tree/master/2886-faulty-keyboard) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kaimai33/leetcode_study/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kaimai33/leetcode_study/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaimai33/leetcode_study/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/kaimai33/leetcode_study/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0891-score-after-flipping-matrix) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/kaimai33/leetcode_study/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/kaimai33/leetcode_study/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kaimai33/leetcode_study/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/kaimai33/leetcode_study/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaimai33/leetcode_study/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/kaimai33/leetcode_study/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kaimai33/leetcode_study/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kaimai33/leetcode_study/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Depth-First Search
 |  |
 | ------- |
