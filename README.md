@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/kaimai33/leetcode_study/tree/master/2698-find-the-array-concatenation-value) |
 | [2727-number-of-senior-citizens](https://github.com/kaimai33/leetcode_study/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/kaimai33/leetcode_study/tree/master/2737-row-with-maximum-ones) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/kaimai33/leetcode_study/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2777-find-the-distinct-difference-array](https://github.com/kaimai33/leetcode_study/tree/master/2777-find-the-distinct-difference-array) |
 | [2881-split-strings-by-separator](https://github.com/kaimai33/leetcode_study/tree/master/2881-split-strings-by-separator) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/kaimai33/leetcode_study/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/kaimai33/leetcode_study/tree/master/2433-best-poker-hand) |
 | [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2777-find-the-distinct-difference-array](https://github.com/kaimai33/leetcode_study/tree/master/2777-find-the-distinct-difference-array) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/kaimai33/leetcode_study/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaimai33/leetcode_study/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaimai33/leetcode_study/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kaimai33/leetcode_study/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/kaimai33/leetcode_study/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/kaimai33/leetcode_study/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/kaimai33/leetcode_study/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Matrix
