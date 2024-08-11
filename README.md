@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/kaimai33/leetcode_study/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/kaimai33/leetcode_study/tree/master/1944-truncate-sentence) |
 | [1983-maximum-population-year](https://github.com/kaimai33/leetcode_study/tree/master/1983-maximum-population-year) |
+| [2103-find-all-groups-of-farmland](https://github.com/kaimai33/leetcode_study/tree/master/2103-find-all-groups-of-farmland) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kaimai33/leetcode_study/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kaimai33/leetcode_study/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/kaimai33/leetcode_study/tree/master/1331-path-with-maximum-gold) |
 | [1572-subrectangle-queries](https://github.com/kaimai33/leetcode_study/tree/master/1572-subrectangle-queries) |
 | [1677-matrix-diagonal-sum](https://github.com/kaimai33/leetcode_study/tree/master/1677-matrix-diagonal-sum) |
+| [2103-find-all-groups-of-farmland](https://github.com/kaimai33/leetcode_study/tree/master/2103-find-all-groups-of-farmland) |
 | [2737-row-with-maximum-ones](https://github.com/kaimai33/leetcode_study/tree/master/2737-row-with-maximum-ones) |
 ## Greedy
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/kaimai33/leetcode_study/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/kaimai33/leetcode_study/tree/master/0871-keys-and-rooms) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2103-find-all-groups-of-farmland](https://github.com/kaimai33/leetcode_study/tree/master/2103-find-all-groups-of-farmland) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kaimai33/leetcode_study/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/kaimai33/leetcode_study/tree/master/0871-keys-and-rooms) |
+| [2103-find-all-groups-of-farmland](https://github.com/kaimai33/leetcode_study/tree/master/2103-find-all-groups-of-farmland) |
 ## Graph
 |  |
 | ------- |
