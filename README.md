@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/kaimai33/leetcode_study/tree/master/0772-construct-quad-tree) |
 | [0832-binary-tree-pruning](https://github.com/kaimai33/leetcode_study/tree/master/0832-binary-tree-pruning) |
+| [0930-all-possible-full-binary-trees](https://github.com/kaimai33/leetcode_study/tree/master/0930-all-possible-full-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/kaimai33/leetcode_study/tree/master/2384-root-equals-sum-of-children) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/kaimai33/leetcode_study/tree/master/0832-binary-tree-pruning) |
+| [0930-all-possible-full-binary-trees](https://github.com/kaimai33/leetcode_study/tree/master/0930-all-possible-full-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/kaimai33/leetcode_study/tree/master/2384-root-equals-sum-of-children) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/kaimai33/leetcode_study/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/kaimai33/leetcode_study/tree/master/0392-is-subsequence) |
+| [0930-all-possible-full-binary-trees](https://github.com/kaimai33/leetcode_study/tree/master/0930-all-possible-full-binary-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/kaimai33/leetcode_study/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kaimai33/leetcode_study/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kaimai33/leetcode_study/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/kaimai33/leetcode_study/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/kaimai33/leetcode_study/tree/master/0394-decode-string) |
+| [0930-all-possible-full-binary-trees](https://github.com/kaimai33/leetcode_study/tree/master/0930-all-possible-full-binary-trees) |
 ## Design
 |  |
 | ------- |
@@ -424,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/kaimai33/leetcode_study/tree/master/1127-last-stone-weight) |
+## Memoization
+|  |
+| ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/kaimai33/leetcode_study/tree/master/0930-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
