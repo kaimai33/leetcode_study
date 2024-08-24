@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kaimai33/leetcode_study/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2235-capitalize-the-title](https://github.com/kaimai33/leetcode_study/tree/master/2235-capitalize-the-title) |
+| [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/kaimai33/leetcode_study/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/kaimai33/leetcode_study/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/kaimai33/leetcode_study/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2401-count-asterisks](https://github.com/kaimai33/leetcode_study/tree/master/2401-count-asterisks) |
