@@ -14,6 +14,7 @@ class Solution:
             elif maxnode and root.val >= maxnode.val:
                 return False
             
+            # minnode and maxnode are universal values to compare to
             return rec(root.left, minnode, root) and rec(root.right, root, maxnode)
         return rec(root, None, None)
             
