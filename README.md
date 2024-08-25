@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0216-combination-sum-iii](https://github.com/kaimai33/leetcode_study/tree/master/0216-combination-sum-iii) |
 | [0800-letter-case-permutation](https://github.com/kaimai33/leetcode_study/tree/master/0800-letter-case-permutation) |
+| [0813-all-paths-from-source-to-target](https://github.com/kaimai33/leetcode_study/tree/master/0813-all-paths-from-source-to-target) |
 | [1331-path-with-maximum-gold](https://github.com/kaimai33/leetcode_study/tree/master/1331-path-with-maximum-gold) |
 ## Linked List
 |  |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kaimai33/leetcode_study/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/kaimai33/leetcode_study/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/kaimai33/leetcode_study/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/kaimai33/leetcode_study/tree/master/0871-keys-and-rooms) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -436,11 +438,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kaimai33/leetcode_study/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/kaimai33/leetcode_study/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/kaimai33/leetcode_study/tree/master/0871-keys-and-rooms) |
 | [2103-find-all-groups-of-farmland](https://github.com/kaimai33/leetcode_study/tree/master/2103-find-all-groups-of-farmland) |
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/kaimai33/leetcode_study/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/kaimai33/leetcode_study/tree/master/0871-keys-and-rooms) |
 | [3189-find-champion-ii](https://github.com/kaimai33/leetcode_study/tree/master/3189-find-champion-ii) |
 ## Heap (Priority Queue)
