@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/kaimai33/leetcode_study/tree/master/1904-second-largest-digit-in-a-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/kaimai33/leetcode_study/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/kaimai33/leetcode_study/tree/master/1944-truncate-sentence) |
+| [1954-replace-all-digits-with-characters](https://github.com/kaimai33/leetcode_study/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/kaimai33/leetcode_study/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/kaimai33/leetcode_study/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kaimai33/leetcode_study/tree/master/2021-remove-all-occurrences-of-a-substring) |
