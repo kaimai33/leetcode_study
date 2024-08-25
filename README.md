@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaimai33/leetcode_study/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0216-combination-sum-iii](https://github.com/kaimai33/leetcode_study/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/kaimai33/leetcode_study/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/kaimai33/leetcode_study/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/kaimai33/leetcode_study/tree/master/0454-4sum-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kaimai33/leetcode_study/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/kaimai33/leetcode_study/tree/master/0624-maximum-distance-in-arrays) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kaimai33/leetcode_study/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/kaimai33/leetcode_study/tree/master/0409-longest-palindrome) |
 | [0454-4sum-ii](https://github.com/kaimai33/leetcode_study/tree/master/0454-4sum-ii) |
 | [0797-rabbits-in-forest](https://github.com/kaimai33/leetcode_study/tree/master/0797-rabbits-in-forest) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kaimai33/leetcode_study/tree/master/0347-top-k-frequent-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kaimai33/leetcode_study/tree/master/1777-determine-if-two-strings-are-close) |
 | [1983-maximum-population-year](https://github.com/kaimai33/leetcode_study/tree/master/1983-maximum-population-year) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kaimai33/leetcode_study/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/kaimai33/leetcode_study/tree/master/0347-top-k-frequent-elements) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kaimai33/leetcode_study/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kaimai33/leetcode_study/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kaimai33/leetcode_study/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0654-maximum-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/kaimai33/leetcode_study/tree/master/0772-construct-quad-tree) |
 ## Brainteaser
@@ -458,10 +463,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kaimai33/leetcode_study/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/kaimai33/leetcode_study/tree/master/1127-last-stone-weight) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/kaimai33/leetcode_study/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Memoization
 |  |
 | ------- |
 | [0930-all-possible-full-binary-trees](https://github.com/kaimai33/leetcode_study/tree/master/0930-all-possible-full-binary-trees) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kaimai33/leetcode_study/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kaimai33/leetcode_study/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
