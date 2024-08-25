@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-check-distances-between-same-letters](https://github.com/kaimai33/leetcode_study/tree/master/2476-check-distances-between-same-letters) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/kaimai33/leetcode_study/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2561-number-of-distinct-averages](https://github.com/kaimai33/leetcode_study/tree/master/2561-number-of-distinct-averages) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/kaimai33/leetcode_study/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2698-find-the-array-concatenation-value](https://github.com/kaimai33/leetcode_study/tree/master/2698-find-the-array-concatenation-value) |
 | [2727-number-of-senior-citizens](https://github.com/kaimai33/leetcode_study/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/kaimai33/leetcode_study/tree/master/2737-row-with-maximum-ones) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-where-will-the-ball-fall](https://github.com/kaimai33/leetcode_study/tree/master/1324-where-will-the-ball-fall) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/kaimai33/leetcode_study/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2470-removing-stars-from-a-string](https://github.com/kaimai33/leetcode_study/tree/master/2470-removing-stars-from-a-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/kaimai33/leetcode_study/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2698-find-the-array-concatenation-value](https://github.com/kaimai33/leetcode_study/tree/master/2698-find-the-array-concatenation-value) |
 | [2886-faulty-keyboard](https://github.com/kaimai33/leetcode_study/tree/master/2886-faulty-keyboard) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/kaimai33/leetcode_study/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/kaimai33/leetcode_study/tree/master/1127-last-stone-weight) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/kaimai33/leetcode_study/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Memoization
 |  |
 | ------- |
