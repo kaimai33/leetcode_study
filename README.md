@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kaimai33/leetcode_study/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/kaimai33/leetcode_study/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaimai33/leetcode_study/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0273-integer-to-english-words](https://github.com/kaimai33/leetcode_study/tree/master/0273-integer-to-english-words) |
 | [0797-rabbits-in-forest](https://github.com/kaimai33/leetcode_study/tree/master/0797-rabbits-in-forest) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kaimai33/leetcode_study/tree/master/0070-climbing-stairs) |
 | [0337-house-robber-iii](https://github.com/kaimai33/leetcode_study/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/kaimai33/leetcode_study/tree/master/0392-is-subsequence) |
 | [0930-all-possible-full-binary-trees](https://github.com/kaimai33/leetcode_study/tree/master/0930-all-possible-full-binary-trees) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kaimai33/leetcode_study/tree/master/0070-climbing-stairs) |
 | [0930-all-possible-full-binary-trees](https://github.com/kaimai33/leetcode_study/tree/master/0930-all-possible-full-binary-trees) |
 ## Bucket Sort
 |  |
