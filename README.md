@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/kaimai33/leetcode_study/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kaimai33/leetcode_study/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0891-score-after-flipping-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0891-score-after-flipping-matrix) |
+| [0999-regions-cut-by-slashes](https://github.com/kaimai33/leetcode_study/tree/master/0999-regions-cut-by-slashes) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/kaimai33/leetcode_study/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/kaimai33/leetcode_study/tree/master/1127-last-stone-weight) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/kaimai33/leetcode_study/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/kaimai33/leetcode_study/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kaimai33/leetcode_study/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0999-regions-cut-by-slashes](https://github.com/kaimai33/leetcode_study/tree/master/0999-regions-cut-by-slashes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kaimai33/leetcode_study/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/kaimai33/leetcode_study/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0777-toeplitz-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/kaimai33/leetcode_study/tree/master/0870-magic-squares-in-grid) |
 | [0891-score-after-flipping-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0891-score-after-flipping-matrix) |
+| [0999-regions-cut-by-slashes](https://github.com/kaimai33/leetcode_study/tree/master/0999-regions-cut-by-slashes) |
 | [1324-where-will-the-ball-fall](https://github.com/kaimai33/leetcode_study/tree/master/1324-where-will-the-ball-fall) |
 | [1331-path-with-maximum-gold](https://github.com/kaimai33/leetcode_study/tree/master/1331-path-with-maximum-gold) |
 | [1572-subrectangle-queries](https://github.com/kaimai33/leetcode_study/tree/master/1572-subrectangle-queries) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/kaimai33/leetcode_study/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/kaimai33/leetcode_study/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/kaimai33/leetcode_study/tree/master/0871-keys-and-rooms) |
+| [0999-regions-cut-by-slashes](https://github.com/kaimai33/leetcode_study/tree/master/0999-regions-cut-by-slashes) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/kaimai33/leetcode_study/tree/master/2103-find-all-groups-of-farmland) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/kaimai33/leetcode_study/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/kaimai33/leetcode_study/tree/master/0871-keys-and-rooms) |
+| [0999-regions-cut-by-slashes](https://github.com/kaimai33/leetcode_study/tree/master/0999-regions-cut-by-slashes) |
 | [2103-find-all-groups-of-farmland](https://github.com/kaimai33/leetcode_study/tree/master/2103-find-all-groups-of-farmland) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
@@ -502,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/kaimai33/leetcode_study/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kaimai33/leetcode_study/tree/master/0210-course-schedule-ii) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/kaimai33/leetcode_study/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
