@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/kaimai33/leetcode_study/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2777-find-the-distinct-difference-array](https://github.com/kaimai33/leetcode_study/tree/master/2777-find-the-distinct-difference-array) |
 | [2881-split-strings-by-separator](https://github.com/kaimai33/leetcode_study/tree/master/2881-split-strings-by-separator) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kaimai33/leetcode_study/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/kaimai33/leetcode_study/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/kaimai33/leetcode_study/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/kaimai33/leetcode_study/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/kaimai33/leetcode_study/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/kaimai33/leetcode_study/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kaimai33/leetcode_study/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/kaimai33/leetcode_study/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/kaimai33/leetcode_study/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Matrix
