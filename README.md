@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kaimai33/leetcode_study/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1677-matrix-diagonal-sum](https://github.com/kaimai33/leetcode_study/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/kaimai33/leetcode_study/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/kaimai33/leetcode_study/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaimai33/leetcode_study/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/kaimai33/leetcode_study/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/kaimai33/leetcode_study/tree/master/1944-truncate-sentence) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/kaimai33/leetcode_study/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kaimai33/leetcode_study/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/kaimai33/leetcode_study/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kaimai33/leetcode_study/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kaimai33/leetcode_study/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/kaimai33/leetcode_study/tree/master/1904-second-largest-digit-in-a-string) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kaimai33/leetcode_study/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kaimai33/leetcode_study/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/kaimai33/leetcode_study/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kaimai33/leetcode_study/tree/master/1777-determine-if-two-strings-are-close) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kaimai33/leetcode_study/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kaimai33/leetcode_study/tree/master/2331-intersection-of-multiple-arrays) |
