@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0777-toeplitz-matrix) |
 | [0797-rabbits-in-forest](https://github.com/kaimai33/leetcode_study/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/kaimai33/leetcode_study/tree/master/0816-design-hashset) |
+| [0822-unique-morse-code-words](https://github.com/kaimai33/leetcode_study/tree/master/0822-unique-morse-code-words) |
 | [0835-linked-list-components](https://github.com/kaimai33/leetcode_study/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/kaimai33/leetcode_study/tree/master/0870-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kaimai33/leetcode_study/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/kaimai33/leetcode_study/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/kaimai33/leetcode_study/tree/master/0657-robot-return-to-origin) |
 | [0800-letter-case-permutation](https://github.com/kaimai33/leetcode_study/tree/master/0800-letter-case-permutation) |
+| [0822-unique-morse-code-words](https://github.com/kaimai33/leetcode_study/tree/master/0822-unique-morse-code-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kaimai33/leetcode_study/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kaimai33/leetcode_study/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kaimai33/leetcode_study/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/kaimai33/leetcode_study/tree/master/0454-4sum-ii) |
 | [0797-rabbits-in-forest](https://github.com/kaimai33/leetcode_study/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/kaimai33/leetcode_study/tree/master/0816-design-hashset) |
+| [0822-unique-morse-code-words](https://github.com/kaimai33/leetcode_study/tree/master/0822-unique-morse-code-words) |
 | [0835-linked-list-components](https://github.com/kaimai33/leetcode_study/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/kaimai33/leetcode_study/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kaimai33/leetcode_study/tree/master/0920-uncommon-words-from-two-sentences) |
