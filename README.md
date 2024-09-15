@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/kaimai33/leetcode_study/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/kaimai33/leetcode_study/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/kaimai33/leetcode_study/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/kaimai33/leetcode_study/tree/master/0394-decode-string) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kaimai33/leetcode_study/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/kaimai33/leetcode_study/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaimai33/leetcode_study/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/kaimai33/leetcode_study/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/kaimai33/leetcode_study/tree/master/0273-integer-to-english-words) |
 | [0797-rabbits-in-forest](https://github.com/kaimai33/leetcode_study/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/kaimai33/leetcode_study/tree/master/0870-magic-squares-in-grid) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaimai33/leetcode_study/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kaimai33/leetcode_study/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/kaimai33/leetcode_study/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/kaimai33/leetcode_study/tree/master/0394-decode-string) |
 | [0654-maximum-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/kaimai33/leetcode_study/tree/master/0735-asteroid-collision) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kaimai33/leetcode_study/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/kaimai33/leetcode_study/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/kaimai33/leetcode_study/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/kaimai33/leetcode_study/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/kaimai33/leetcode_study/tree/master/0394-decode-string) |
 | [0930-all-possible-full-binary-trees](https://github.com/kaimai33/leetcode_study/tree/master/0930-all-possible-full-binary-trees) |
