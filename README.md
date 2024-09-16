@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/kaimai33/leetcode_study/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/kaimai33/leetcode_study/tree/master/0216-combination-sum-iii) |
 | [0800-letter-case-permutation](https://github.com/kaimai33/leetcode_study/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/kaimai33/leetcode_study/tree/master/0813-all-paths-from-source-to-target) |
