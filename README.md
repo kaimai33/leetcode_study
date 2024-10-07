@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kaimai33/leetcode_study/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/kaimai33/leetcode_study/tree/master/0338-counting-bits) |
 | [0800-letter-case-permutation](https://github.com/kaimai33/leetcode_study/tree/master/0800-letter-case-permutation) |
 | [0891-score-after-flipping-matrix](https://github.com/kaimai33/leetcode_study/tree/master/0891-score-after-flipping-matrix) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/kaimai33/leetcode_study/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kaimai33/leetcode_study/tree/master/0070-climbing-stairs) |
 | [0337-house-robber-iii](https://github.com/kaimai33/leetcode_study/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/kaimai33/leetcode_study/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/kaimai33/leetcode_study/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/kaimai33/leetcode_study/tree/master/0806-domino-and-tromino-tiling) |
 | [0930-all-possible-full-binary-trees](https://github.com/kaimai33/leetcode_study/tree/master/0930-all-possible-full-binary-trees) |
