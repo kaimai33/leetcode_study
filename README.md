@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/kaimai33/leetcode_study/tree/master/0657-robot-return-to-origin) |
 | [0800-letter-case-permutation](https://github.com/kaimai33/leetcode_study/tree/master/0800-letter-case-permutation) |
 | [0822-unique-morse-code-words](https://github.com/kaimai33/leetcode_study/tree/master/0822-unique-morse-code-words) |
+| [0886-score-of-parentheses](https://github.com/kaimai33/leetcode_study/tree/master/0886-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kaimai33/leetcode_study/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kaimai33/leetcode_study/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kaimai33/leetcode_study/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kaimai33/leetcode_study/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kaimai33/leetcode_study/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0886-score-of-parentheses](https://github.com/kaimai33/leetcode_study/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kaimai33/leetcode_study/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kaimai33/leetcode_study/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
