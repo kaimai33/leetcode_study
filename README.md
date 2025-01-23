@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/kaimai33/leetcode_study/tree/master/1127-last-stone-weight) |
 | [1324-where-will-the-ball-fall](https://github.com/kaimai33/leetcode_study/tree/master/1324-where-will-the-ball-fall) |
 | [1331-path-with-maximum-gold](https://github.com/kaimai33/leetcode_study/tree/master/1331-path-with-maximum-gold) |
+| [1396-count-servers-that-communicate](https://github.com/kaimai33/leetcode_study/tree/master/1396-count-servers-that-communicate) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kaimai33/leetcode_study/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/kaimai33/leetcode_study/tree/master/1511-count-number-of-teams) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/kaimai33/leetcode_study/tree/master/0999-regions-cut-by-slashes) |
 | [1324-where-will-the-ball-fall](https://github.com/kaimai33/leetcode_study/tree/master/1324-where-will-the-ball-fall) |
 | [1331-path-with-maximum-gold](https://github.com/kaimai33/leetcode_study/tree/master/1331-path-with-maximum-gold) |
+| [1396-count-servers-that-communicate](https://github.com/kaimai33/leetcode_study/tree/master/1396-count-servers-that-communicate) |
 | [1572-subrectangle-queries](https://github.com/kaimai33/leetcode_study/tree/master/1572-subrectangle-queries) |
 | [1677-matrix-diagonal-sum](https://github.com/kaimai33/leetcode_study/tree/master/1677-matrix-diagonal-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/kaimai33/leetcode_study/tree/master/2103-find-all-groups-of-farmland) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kaimai33/leetcode_study/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kaimai33/leetcode_study/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/kaimai33/leetcode_study/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/kaimai33/leetcode_study/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kaimai33/leetcode_study/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kaimai33/leetcode_study/tree/master/1777-determine-if-two-strings-are-close) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/kaimai33/leetcode_study/tree/master/0871-keys-and-rooms) |
 | [0999-regions-cut-by-slashes](https://github.com/kaimai33/leetcode_study/tree/master/0999-regions-cut-by-slashes) |
 | [1035-cousins-in-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1035-cousins-in-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/kaimai33/leetcode_study/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/kaimai33/leetcode_study/tree/master/2103-find-all-groups-of-farmland) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/kaimai33/leetcode_study/tree/master/0871-keys-and-rooms) |
 | [0999-regions-cut-by-slashes](https://github.com/kaimai33/leetcode_study/tree/master/0999-regions-cut-by-slashes) |
 | [1035-cousins-in-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/1035-cousins-in-binary-tree) |
+| [1396-count-servers-that-communicate](https://github.com/kaimai33/leetcode_study/tree/master/1396-count-servers-that-communicate) |
 | [2103-find-all-groups-of-farmland](https://github.com/kaimai33/leetcode_study/tree/master/2103-find-all-groups-of-farmland) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
@@ -565,4 +570,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/kaimai33/leetcode_study/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/kaimai33/leetcode_study/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/kaimai33/leetcode_study/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
