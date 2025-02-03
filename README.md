@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/kaimai33/leetcode_study/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/kaimai33/leetcode_study/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/kaimai33/leetcode_study/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/kaimai33/leetcode_study/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## String
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/kaimai33/leetcode_study/tree/master/2698-find-the-array-concatenation-value) |
 | [2886-faulty-keyboard](https://github.com/kaimai33/leetcode_study/tree/master/2886-faulty-keyboard) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/kaimai33/leetcode_study/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/kaimai33/leetcode_study/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/kaimai33/leetcode_study/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2411-spiral-matrix-iv](https://github.com/kaimai33/leetcode_study/tree/master/2411-spiral-matrix-iv) |
 | [2737-row-with-maximum-ones](https://github.com/kaimai33/leetcode_study/tree/master/2737-row-with-maximum-ones) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/kaimai33/leetcode_study/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Greedy
 |  |
 | ------- |
