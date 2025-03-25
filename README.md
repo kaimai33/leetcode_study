@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kaimai33/leetcode_study/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kaimai33/leetcode_study/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kaimai33/leetcode_study/tree/master/0101-symmetric-tree) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kaimai33/leetcode_study/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kaimai33/leetcode_study/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kaimai33/leetcode_study/tree/master/0101-symmetric-tree) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaimai33/leetcode_study/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kaimai33/leetcode_study/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/kaimai33/leetcode_study/tree/master/0224-basic-calculator) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kaimai33/leetcode_study/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kaimai33/leetcode_study/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kaimai33/leetcode_study/tree/master/0101-symmetric-tree) |
