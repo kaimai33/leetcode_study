@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kaimai33/leetcode_study/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kaimai33/leetcode_study/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/kaimai33/leetcode_study/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/kaimai33/leetcode_study/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kaimai33/leetcode_study/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kaimai33/leetcode_study/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kaimai33/leetcode_study/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/kaimai33/leetcode_study/tree/master/0222-count-complete-tree-nodes) |
 | [0337-house-robber-iii](https://github.com/kaimai33/leetcode_study/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kaimai33/leetcode_study/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaimai33/leetcode_study/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kaimai33/leetcode_study/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/kaimai33/leetcode_study/tree/master/0224-basic-calculator) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kaimai33/leetcode_study/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kaimai33/leetcode_study/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kaimai33/leetcode_study/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kaimai33/leetcode_study/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/kaimai33/leetcode_study/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kaimai33/leetcode_study/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/kaimai33/leetcode_study/tree/master/0337-house-robber-iii) |
